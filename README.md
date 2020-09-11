@@ -35,7 +35,7 @@ this mod well... adds LW components to TUNG, what else were you thinking it woul
  * Short Delayer
 
 ## Components in a snapshot of mod
-* Relay
+ * Relay
  
  ## Components planned to be added next
  * Key, Panel Key
