@@ -1,0 +1,10 @@
+C:\Users\Ryan\source\repos\LW Components In TUNG\LW Components In TUNG\bin\Debug\LW Components In TUNG.dll
+C:\Users\Ryan\source\repos\LW Components In TUNG\LW Components In TUNG\bin\Debug\LW Components In TUNG.pdb
+C:\Users\Ryan\source\repos\LW Components In TUNG\LW Components In TUNG\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ryan\source\repos\LW Components In TUNG\LW Components In TUNG\bin\Debug\PiTung.dll
+C:\Users\Ryan\source\repos\LW Components In TUNG\LW Components In TUNG\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Ryan\source\repos\LW Components In TUNG\LW Components In TUNG\obj\Debug\LW Components In TUNG.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\LW Components In TUNG\LW Components In TUNG\obj\Debug\LW Components In TUNG.csproj.CopyComplete
+C:\Users\Ryan\source\repos\LW Components In TUNG\LW Components In TUNG\obj\Debug\LW Components In TUNG.dll
+C:\Users\Ryan\source\repos\LW Components In TUNG\LW Components In TUNG\obj\Debug\LW Components In TUNG.pdb
+C:\Users\Ryan\source\repos\LW Components In TUNG\LW Components In TUNG\obj\Debug\LW Components In TUNG.csprojAssemblyReference.cache
