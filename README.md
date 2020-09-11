@@ -33,12 +33,14 @@ this mod well... adds LW components to TUNG, what else were you thinking it woul
  * Oracle
  * AND Gate, Three-way AND Gate, Four-way AND Gate
  * Short Delayer
+
+## Components in a snapshot of mod
+* Relay
  
  ## Components planned to be added next
  * Key, Panel Key
  * Delayer (LW version)
  * Display(2 Peg), Panel Display(2 Peg) (Limited to TUNGs 8 colours)
- * Relay
  
  ## Components not added in mod or planned to be added soon
 
